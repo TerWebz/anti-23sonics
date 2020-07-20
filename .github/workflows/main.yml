@@ -28,5 +28,5 @@ jobs:
     - name: Publish artifacts
       uses: actions/upload-artifact@v1
       with:
-        name: gamer-president
+        name: anti-23sonics
         path: artifacts
